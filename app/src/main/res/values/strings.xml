@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iYeppeo</string>
+    <string name="delete_confirmation">Konfirmasi</string>
+    <string name="sureToDelete">Apakah kamu yakin ingin menghapus agenda?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="confirmation">Agenda Selesai!..</string>
+    <string name="sureToMarkAsComplete">Apakah Kamu Yakin ingin menuntaskan Agenda ini?.</string>
+    <string name="congrats_you_have_completed_the_task_successfully">Selamat! Agenda Tuntas...</string>
+</resources>

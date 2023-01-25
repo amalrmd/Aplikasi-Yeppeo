@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OnBoarding1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"/>
+
+    <ImageView
+        android:id="@+id/yep_remo"
+        android:layout_width="274dp"
+        android:layout_height="303dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="70dp"
+        android:src="@drawable/ob2" />
+
+    <ImageView
+        android:id="@+id/rectangle_1"
+        android:layout_width="408dp"
+        android:layout_height="182dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="434dp"
+        android:background="@drawable/img" />
+
+    <TextView
+        android:id="@+id/skincare_ro"
+        android:layout_width="155dp"
+        android:layout_height="23dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="43dp"
+        android:layout_marginTop="462dp"
+        android:fontFamily="@font/latobold"
+        android:gravity="top"
+        android:lineSpacingExtra="-4sp"
+        android:text="Review"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/membantumu_"
+        android:layout_width="199dp"
+        android:layout_height="53dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="44dp"
+        android:layout_marginTop="488dp"
+        android:fontFamily="@font/latolight"
+        android:gravity="top"
+        android:lineSpacingExtra="-3sp"
+        android:text="Tuliskan pendapatmu mengenai skincare yang kamu kenakan :)"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        />
+
+    <ImageButton
+        android:id="@+id/small_butto"
+        android:layout_width="95dp"
+        android:layout_height="42dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="267dp"
+        android:layout_marginTop="541dp"
+        android:background="@drawable/img_2" />
+
+
+</RelativeLayout>

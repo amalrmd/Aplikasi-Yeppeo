@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "113331922484",
+    "project_id": "iyeppeodb",
+    "storage_bucket": "iyeppeodb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113331922484:android:325192c7102d82ff708c61",
+        "android_client_info": {
+          "package_name": "com.example.iyeppeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113331922484-hjf10gubt09uj213e2umr8u63glc7nu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iyeppeo",
+            "certificate_hash": "07987cea4702d5fea85bfa3ca4a3a514706998d2"
+          }
+        },
+        {
+          "client_id": "113331922484-jg0uek77s4veitcjitavf5ntur3a3c2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASLwKUzrPDmHuec-oCEuyGBmdtINZnUhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113331922484-jg0uek77s4veitcjitavf5ntur3a3c2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
